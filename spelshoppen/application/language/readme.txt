@@ -1,0 +1,1 @@
+Swedish language pack is available on codeigniter website. You only need to edit the config file.
